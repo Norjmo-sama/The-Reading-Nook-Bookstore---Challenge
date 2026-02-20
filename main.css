@@ -43,6 +43,17 @@ header {
   font-size: 14px;
 }
 
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top img {
+    width: 1349px;
+    height: 60px;
+}
+
 footer {
     padding: 30px 40px;
     background-color: #1F3A34;
