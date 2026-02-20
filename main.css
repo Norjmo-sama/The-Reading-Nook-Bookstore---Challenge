@@ -19,6 +19,12 @@ header {
     padding: 20px 60px;
 }
 
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -46,6 +52,18 @@ header {
   color: white;
   font-weight: 500;
   font-size: 14px;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top img {
+    width: 1349px;
+    height: 80px;
+    page: 20px 60px;
 }
 
 footer {
