@@ -107,3 +107,11 @@ footer img {
 }
 
 /* Contact */
+
+.contactImg {
+  display: flex;
+  
+    height: 300px;
+    width: 100%; 
+   padding: 10px 10px;
+}
