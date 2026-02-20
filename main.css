@@ -46,6 +46,7 @@ header {
 footer {
     padding: 30px 40px;
     background-color: #1F3A34;
+    overflow-y: scroll;
 }
 
 footer img {
@@ -53,7 +54,22 @@ footer img {
     height: 40px;
 }
 
-
 /* Book */
+
+.book-box {
+    background-color: #2B2B2B;
+    width: 95px;
+    height: 86px;
+    padding: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.book-box img {
+    width: 91px;
+    height: 51px;
+    object-fit: contain;
+}
 
 /* Contact */
